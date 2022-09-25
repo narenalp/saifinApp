@@ -1,0 +1,217 @@
+@media (min-width: 480px){
+    .navbar-toggle { margin: 34px 0; }
+    .logo { max-width: 100%; }
+}
+@media (max-width: 768px) {
+    .logo{ float: none; }
+    /* .kidsville-logo { display: none; } */
+    /*** footer ***/
+    footer{ padding-top: 15px; }
+    .menu-footer-menu-container summary{padding-top: 5px; padding-bottom: 5px;}
+    /*** home ***/
+    .slide-1 img, .slide-2 img, .slide-3 img { height: 330px; }
+    .slider-content{ padding: 5px;}
+    .slider-content a{ padding: 5px 10px; font-size: 16px; }    
+    .Hdifferent{ margin-top: 30px; margin-bottom: 20px; }
+    .Hdifferent img{ height: auto;}
+    .Hdifferent h2{ text-align: center; padding-top: 25px;}
+    .Hdifferent p{ text-align: center;}
+    .team .row .col-12{ margin-bottom: 15px; }
+    .img-hover-zoom--colorize img { height: 200px; width: 75%;} 
+    .srv-iconfont {font-size: 1.5rem !important; }
+    /*** review ***/
+    .pa_review_block{ box-shadow: 11px 22px 10px #8c94d4; }
+    /*** 404 ***/
+    .para-404 img {  width: 100%; }
+    /*** contact ***/
+    .main-title { padding: 40px 0; }
+    .contact-left p { padding-right: 5px; }
+    /*** Your Visit ***/
+    .consultation_title { padding: 25px 0; }
+    .consultation_title .consultation-col{ -webkit-box-flex:  0; -ms-flex:  0 0 33.333333%; flex:  0 0 100%; max-width: 100%; margin: 2% 0; padding: 1rem 1rem; }
+    /*** About ***/
+    .belief_panel img { height: auto; width: 100%; }
+    .belief_panel h2{ padding: 0; }
+    .belief_panel p { padding: 10px 0; }
+    .belief_panel { padding: 10px 0; }
+    .about_motto { margin: 25px 0; }
+    .team_intro_title { font-size: 28px; padding-bottom: 10px; padding-top: 20px; }
+    .sep_line{ margin: 20px 0;}
+    .about_motto img {padding-top: 20px; }
+    .about_motto p { padding-top: 10px; }
+    .Cbetter-contact { padding: 1em 0; }
+    /*** Our Team ***/
+    .team_box .card{ margin-bottom: 25px; }
+    /*** blog ***/
+    .blog-posts p{padding: 0 8px; }
+    /*** Location ***/
+    .loc_gallery img{ width: 100%; height: auto; }
+    .loc_doc img { height: 195px; width: 70%;}
+    .loc_doc h3{ padding-left: 10px; padding-right: 10px;}
+    .kdifferent img{ width: 100%; height: auto; }
+    .kdifferent { margin: 20px 0; }
+    .kdiff_det { padding-top: 30px; }
+    .kdiff_2{ margin: 20px 0; }
+    .trt_txt p::before{ margin: 0 !important; }
+    .loc_time, .loc_addrs{ padding-top: 10px; }
+    .trt_txt_2{padding-left: 15px;}
+    /*** Why Us ***/
+    .motto{ margin: 25px; }
+    .motto h2 { font-size: 34px; }
+    .motto p{ padding: 0; text-align: justify;}
+    .why_anu { width: 180px; padding: 10px; }
+    .qoute_icon{ font-size: 20px; color: #7a7474 !important;}
+    .anu_qoute{ font-size: 21px; padding: 10px 0; }
+    .reas_card img { height: auto; width: 100%; }
+    .happy_pat{ padding: 20px 0; }
+    .happy_pat_items { padding: 20px 0; }
+    .Hpat_text { padding: 20px;}
+    .ratings { padding: 10px 20px 10px 0;}
+    /*** Dental Hygiene ***/
+    .oral_hygiene { margin: 30px 0; }
+    .hygiene_service{ margin: 20px 0;}
+    .hygiene_service img{ width: 20%; }
+    .hygiene_service_para{ padding-bottom: 20px;}
+    /*** DentalHypomineralization ***/
+    .detect_trt_heading{ padding-top: 10px; padding-bottom: 5px;}
+    .detect_trt_post{ padding: 20px 0; }
+    /*** Crown ***/
+    .cap_children_teeth p { padding: 0; }
+    .put_cap .col-12 { margin: 10px 0; text-align: center; }
+    .put_cap{margin: 20px 0; }
+    .put_cap h2 { padding-bottom: 10px; }
+    .put_cap .col-lg-6{ border-color: slategray; border-style: solid; border-width: 1px 1px 1px 1px; }
+    .put_cap_tooth{ border: none }
+    /*** Dental Sealant ***/
+    .fiss_sealant{ margin: 20px 0 0 0!important; }
+    .pit_sealant { padding: 0; }
+    .sealant{ padding-bottom: 0; }
+    .P_F_sealants h3{ padding-top: 20px; }
+    .P_F_sealants{ margin-top: 10px; }
+    .sealant_work{ margin: 20px 0; }
+    .sealant_work img{ width: 100%; }
+    .reverse_col{ flex-direction: column-reverse; }
+    .mark_fosters { padding-bottom: 30px;}
+    .mark_qoute{ padding-top: 15px; padding-bottom: 10px;}
+    .when_pit-fiss{ padding-top: 20px; padding-bottom: 20px;}
+    .when_pit-fiss h2{ padding-bottom: 15px; }
+    .next-appoint h2 { font-size: 36px!important; }
+    /*** Root Canal ***/
+    .what_Rcanal { margin: 10px 0; }
+    .what_Rcanal h2{ padding: 0; }
+    .what_Rcanal .col-12{ margin: 10px 0; }
+    .what_Rcanal .col-lg-4{ border-color: slategray; border-style: solid; border-width: 1px 1px 1px 1px; }
+    .need_Rcanal{ border: none; }
+    /*** ChildrenEmergency ***/
+    div .tooth_pain_con h3{ height: 90px; }
+    /*** Invisalign ***/
+    .invisalign_treatment{ margin: 20px 0; }
+    .invisalign_img{ padding-top: 20px; }
+    .invisalign_treatment h2{ padding: 8px 0; }
+    .invisalign_tooth_remove { margin: 10px 0; }
+    /*** FluorideVarnish ***/
+    /*** IV Sedation ***/
+    .Wfluoride-varnish{ margin: 10px 0;}
+    .pharma_blocks{ margin: 10px 0;}
+    .pharma_blocks h3 { padding: 8px 0;}
+    .pharma_blocks p{ padding-bottom: 5px; }
+    /*** General Athesthesia ***/
+    .general-anthe{ padding-top: 20px; }
+    /*** Space Maintainer ***/
+    .space_detail { margin: 25px 0; }
+    /*** Orthodontic Correction ***/
+    .orthodontics_brace{margin-top: 5px; margin-bottom: 5px; }
+    .orthodontics-correction img { width: 100%; height: auto; } 
+    .service_item { padding-bottom: 35px; }
+    /*** MyoFunctional Treatment ***/
+    .MyoFunctional { margin: 20px 0;}
+    .myofunctional_appliances{ margin: 20px 0;}
+    .myofunctional_appliances h2{ padding-bottom: 10px;}
+    .common_myofunctional{ margin: 20px 0; }
+    .common_myofunctional h2{ padding-bottom: 10px;}
+    /*** Orthodontics for Teen ***/
+    .clear_aligners{ padding-bottom: 10px;}
+    .Brush_floss{ margin: 20px 0;}
+    .Brush_floss h2{ padding-bottom: 10px; }
+    /*** Retainer ***/
+    .retainer{ margin-top: 15px; }
+    .Wretainers{ margin-bottom: 10px;}
+    /*** Tooth Removal ***/
+    .tooth_removal{ text-align: center;}
+    .tooth_removal h2{font-size: 2rem;}
+}
+@media (max-width: 991px){
+    .desktop-header{ display: none;}
+    .logo { max-width: 100%; width: 100%; display: none; }
+    .top-header-left { padding-right: 0px;}
+    .top-header-left { padding-bottom: 5px;}
+    .contact_section {padding-top: 0px};
+    .clinic_tour .cl-grid { text-align: center;}
+    .emergency-num .row{ padding: 0 15px;}
+    .bring_child_title .child-title{ height: auto;}
+    .dropdown .dropbtn::after { display: none; }
+    .kidsville-logo { padding-left: 0;}
+    .navbar-expand-lg .navbar-collapse { margin-left: 0; }
+    .dropdown .dropbtn{ padding-left: 10px;}
+    .navbar a{ text-align: left;}
+    .dropdown-toggle::after{ display: block; float: right; content: '\f107'; font-size: 20px; font-family: 'FontAwesome'; border: none;}
+    .appointment-btn{ top: 2px;}
+    .navbar-light .navbar-toggler { font-size: 22px;border: none; padding: 0;} 
+    button:focus { outline: none!important;}
+    .before-ortho .card { height: auto;}
+    .before-ortho .card img { width: 15%;;height: auto;}
+    /*** contact-us ***/
+    .main-title{ padding: 50px 0; }
+}
+@media (min-width: 992px){
+    h2{ font-size: 30px !important; } 
+    /*** Header ***/    
+    div#head-stuff .logo { display: none; }
+    .header { border-bottom: 1px solid #ddd; }
+    div#head-stuff { width: 100%; padding: 0; }
+    .logo { float: none; text-align: center; }
+    .header-widgets { display: -webkit-flex; justify-content: flex-end; float: none; padding: 0; }
+    .navbar-toggle { display: none; }
+    .contact-menu{ padding-bottom: 34px !important;}
+    /*** Footer ***/
+    .footer { padding: 30px 0 0; }
+    .footer .footer__headings { margin-top: 0; }
+    .foot-cta { display: none; }
+    .footer-bottom__center { text-align: center; padding: 15px 0; font-weight: 400 !important; } 
+    /*** Home ***/
+    .slide-1, .slide-2, .slide-3{ height: 630px; }  
+    .slide-1 img, .slide-2 img, .slide-3 img { background-position: center center !important; }
+    .Hdifferent_heading h2{ font-size: 38px;}
+    .Hdifferent-right { padding: 40px 40px 0 40px;}
+    .my-2 h2{ font-size: 2.6rem; }
+    .srv-iconfont {font-size: 3.5rem !important; }
+    /*** Contact page ***/
+    .main-title { padding: 70px 0 100px; }
+    /*** Location ***/
+    .loc_map{ width: 100%; height: 450px; padding-top: 15px;}
+    /*** Hygiene ***/
+    .baby_hygiene_border{ border: outset; box-shadow: 0px 10px 12px #8c94d4;}
+    /*** DentalHypomineralization ***/
+    .Hypominer h2{ padding-bottom: 30px;}
+    /*** Emergency Dental Treatment ***/
+    .dealing_with_prob{ margin-bottom: 50px;}
+    /*** IVSedation ***/
+    .pharma_box{box-shadow: 0px 15px 24px #90caf9;}
+    /*** Dental sealant ***/
+    .sealant_work_heading{ padding-top: 30px;}
+    .sealant_work img{ height: 250px; padding-bottom: 20px;}
+    /*** Root canal ***/
+    .what_Rcanal_box{box-shadow: 2px 15px 12px #90b6e1;}
+    .common_myofunctional{ box-shadow: inset 0px -5px 30px #101d8a99; }
+    .common_myofunctional img{ padding-bottom: 30px;}
+    /*** braces ***/
+    .braces_types_block img{ height: 200px;}
+}
+@media (min-width: 1200px){
+    .header-widgets { -webkit-justify-content: flex-end; -ms-flex-pack: end; justify-content: flex-end; }
+    /*** Home ***/
+}
+@media (min-width: 1450px) {
+    /*** Home ***/
+}
+    
